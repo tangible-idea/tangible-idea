@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Mark's github stats](https://github-readme-stats.vercel.app/api?username=tangible-idea)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tangible-idea/tangible-idea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
